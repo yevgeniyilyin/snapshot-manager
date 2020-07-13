@@ -19,5 +19,5 @@ E.g.
 `pipenv run "python snapshot-manager/snapshot-manager.py <command> <subcommand> <--project=PROJECT>"`
 
 *command* is instances, volumes, or snapshots
-*subcommand* operation on <command> EC2 type
+*subcommand* is operation on command
 *project* is optional to filter based on AWS Tag = "project"
