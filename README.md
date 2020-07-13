@@ -16,4 +16,4 @@ E.g.
 
 ## Running
 
-`python3 snapshot-manager/snapshot-manager.py`
+`pipenv "run python snapshot-manager/snapshot-manager.py"`
